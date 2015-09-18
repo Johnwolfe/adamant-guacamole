@@ -1,0 +1,48 @@
+body{
+	margin: 0;
+	/*background: url('http://beachgrooves.com/wp-content/uploads/2014/07/beach.jpg');
+	background-size: cover;
+	height: 702px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;*/
+}
+
+
+nav{
+	width: 100%;
+	background-color: black;
+
+
+}
+
+.wrapper{
+	margin: 0 auto;
+	max-width: 960px;
+}
+
+.column-one{
+	float: left;
+	width: 45%;
+	padding: 0 20px;
+}
+
+
+
+ul{
+	margin: 0 auto;
+	max-width: 960px;
+	text-align: center;
+	background-color: black;
+	padding: 20px 0;
+
+
+
+}
+
+li{
+	margin: 0 20px;
+	display: inline-block;
+	color: #fff;
+	font-size: 23px;
+}
+
